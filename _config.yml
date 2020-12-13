@@ -11,7 +11,7 @@ description: Personal website and blog of Umar Aalam, Masters student at Compute
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-#url: "https://mr-easy1.github.io"
+url: "https://mr-easy1.github.io"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -21,8 +21,8 @@ description: Personal website and blog of Umar Aalam, Masters student at Compute
 # List of links in the navigation bar
 navbar-links:
   Home: "/"
-  Blog: "blog/"
-  Projects: "projects/"
+  #Blog: "blog/"
+ # Projects: "projects/"
   About Me: "aboutme/"
   Contact me: "contact/"
 
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Umar Aalam
+  name: Umar
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
