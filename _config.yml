@@ -21,8 +21,8 @@ description: Personal website and blog of Umar Aalam, Masters student at Compute
 # List of links in the navigation bar
 navbar-links:
   Home: "/"
-  #Blog: "blog/"
- # Projects: "projects/"
+  Blog: "blog/"
+  Projects: "projects/"
   About Me: "aboutme/"
   Contact me: "contact/"
 
@@ -60,7 +60,7 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author: ""
-  name: ""
+  name: "umar"
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
@@ -73,7 +73,7 @@ social-network-links:
   github: mr-easy1
 #  twitter: daattali
 #  reddit: yourname
- #linkedin: mr-easy
+   linkedin: mr-easy
 #  xing: yourname
  # stackoverflow: "6430403/rishabh-gupta"
 #  snapchat: deanat78
