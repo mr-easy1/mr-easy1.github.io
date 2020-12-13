@@ -11,7 +11,7 @@ description: Personal website and blog of Umar Aalam, Masters student at Compute
 # *** If you're not sure what this mean, then leave this section as it is. Only modify the url and baseurl if you know what you're doing!***
 
 # url is the the website domain URL without a trailing slash
-url: "https://mr-easy1.github.io"
+#url: "https://mr-easy1.github.io"
 
 # baseurl should be an empty string
 #baseurl: ""
@@ -59,7 +59,7 @@ footer-link-col: "#404040"
 
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
-author: Umar
+author: ""
   name: ""
 
 # Select your active Social Network Links.
@@ -93,7 +93,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "mr-easy1.github.io"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "mr-easy1.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
