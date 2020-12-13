@@ -22,7 +22,7 @@ css: "/aboutme.css"
 
 <p class="about-text">
   <span class="fa fa-graduation-cap about-icon"></span>
-  I did my MS from <a href="https://www.iiti.ac.in/" target="_blank" rel="noopener noreferrer">Indian Institute of Technology Indore(IITI)</a> in <a href="http://cse.iiti.ac.in/" target="_blank" rel="noopener noreferrer">Computer Science Engineering Department(CSA)</a>. My thesis was on Inversion optimization in Majority Inverter Graph.
+  I did my MS from <a href="https://www.iiti.ac.in/" target="_blank" rel="noopener noreferrer">Indian Institute of Technology Indore(IITI)</a> in <a href="http://cse.iiti.ac.in/" target="_blank" rel="noopener noreferrer">Computer Science Engineering Department</a>. My thesis was on Inversion optimization in Majority Inverter Graph.
 </p>
 
 <p class="about-text">
