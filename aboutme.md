@@ -1,16 +1,36 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: _
+css: "/css/aboutme.css"
 ---
+<div id="aboutme-section">
 
-My name is Inigo Montoya. I have the following qualities:
+<p class="about-text">
+  <span class="fa fa-star about-icon"></span>
+  My name is <b>Umar Aalam</b>. 
+</p> 
+<p class="about-text">
+  <span class="fa fa-file-text-o about-icon"></span>
+  Download my CV here (<a href="/files/v5.1.pdf">pdf</a>).
+</p>
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+<p class="about-text">
+  <span class="fa fa-briefcase about-icon"></span>
+  I joined <a href="https://www.accolite.com/" target="_blank" rel="noopener noreferrer">Accolite</a> as a Software Engineer from July 2020.
+</p>
 
-What else do you need?
+<p class="about-text">
+  <span class="fa fa-graduation-cap about-icon"></span>
+  I did my MS from <a href="https://www.iiti.ac.in/" target="_blank" rel="noopener noreferrer">Indian Institute of Technology Indore(IITI)</a> in <a href="http://cse.iiti.ac.in/" target="_blank" rel="noopener noreferrer">Computer Science Engineering Department(CSA)</a>. Worked under the guidance of <a href="https://drona.csa.iisc.ac.in/~chiru/" target="_blank" rel="noopener noreferrer">Prof. Chiranjib Bhattacharyya</a> at <a href="https://mllabiisc.github.io/" target="_blank" rel="noopener noreferrer">Machine Learning Lab</a>. My thesis was on Inversion optimization in Majority Inverter Graph.
+</p>
 
-### My story
+<p class="about-text">
+  <span class="fa fa-code about-icon"></span>
+  I am interested in Algorithms and Computer Networks. My journey has just begun. I am exploring different things.  
+</p>
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+<p class="about-text">
+  <span class="fa fa-briefcase about-icon"></span>
+  I did an internship at <b>LinkedIn, Bangalore</b> in May 2019, worked in the AI team.
+</p>
