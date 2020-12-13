@@ -2,7 +2,7 @@
 layout: page
 title: About me
 subtitle: _
-css: "/css/aboutme.css"
+css: "/aboutme.css"
 ---
 <div id="aboutme-section">
 
@@ -30,7 +30,4 @@ css: "/css/aboutme.css"
   I am interested in Algorithms and Computer Networks. My journey has just begun. I am exploring different things.  
 </p>
 
-<p class="about-text">
-  <span class="fa fa-briefcase about-icon"></span>
-  I did an internship at <b>LinkedIn, Bangalore</b> in May 2019, worked in the AI team.
-</p>
+
