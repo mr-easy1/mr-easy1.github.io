@@ -21,7 +21,8 @@ description: Personal website and blog of Umar Aalam, Masters student at Compute
 # List of links in the navigation bar
 navbar-links:
   Home: "/"
-  Book Recommendation: "blog/"
+  Blog: "blog/"
+  Book Recommendation: "book/"
   Projects: "projects/"
   About Me: "aboutme/"
   Contact me: "contact/"
